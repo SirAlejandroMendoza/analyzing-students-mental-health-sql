@@ -32,4 +32,7 @@ Using aggregate functions and grouping by length of stay (`stay`), the query rev
 
 ## 🚀 Repository Structure
 * `query.sql`: Main PostgreSQL script used to perform the data analysis.
+* `notebook.ipynb`: Jupyter Notebook rendering the SQL query execution and output tables.
+* `students.csv`: Raw dataset containing student mental health survey data.
+* `mentalhealth.jpg`: Banner image for project documentation.
 * `README.md`: Project documentation and findings summary.
